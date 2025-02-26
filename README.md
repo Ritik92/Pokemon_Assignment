@@ -30,8 +30,8 @@ Follow these instructions to get the project running on your local machine.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Ritik92/Pokemon_Assignment.git
-cd pokemon-explorer
+git clone [https://github.com/Ritik92/Pokemon_Assignment.git](https://github.com/Ritik92/Pokemon_Assignment.git)
+cd Pokemon_Assignment
 ```
 
 2. Install dependencies
